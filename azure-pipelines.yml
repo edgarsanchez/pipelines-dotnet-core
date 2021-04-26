@@ -11,6 +11,7 @@ pool:
 
 variables:
   buildConfiguration: 'Release'
+  tipoCliente: 'Remoto'
 
 steps:
 - script: dotnet build --configuration $(buildConfiguration)
