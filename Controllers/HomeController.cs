@@ -10,8 +10,6 @@ namespace pipelines_dotnet_core.Controllers
 {
     public class HomeController : Controller
     {
-        dfjldsfj dfjkldfjkd
-        fdljfasj fdsljfdjlsd
         public IActionResult Index()
         {
             return View();
